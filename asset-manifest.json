@@ -20,7 +20,6 @@
     "static/media/fraction.cjs": "/static/media/fraction.7992481f3d8339b77604.cjs",
     "index.html": "/index.html",
     "static/media/index.cjs": "/static/media/index.cd351d7c31d0d3fccf96.cjs",
-<<<<<<< HEAD
     "main.c67b46ae.css.map": "/static/css/main.c67b46ae.css.map",
     "main.70e3d708.js.map": "/static/js/main.70e3d708.js.map",
     "453.d912499c.chunk.js.map": "/static/js/453.d912499c.chunk.js.map"
@@ -28,14 +27,5 @@
   "entrypoints": [
     "static/css/main.c67b46ae.css",
     "static/js/main.70e3d708.js"
-=======
-    "main.ea919384.css.map": "/static/css/main.ea919384.css.map",
-    "main.6c6159ff.js.map": "/static/js/main.6c6159ff.js.map",
-    "453.d912499c.chunk.js.map": "/static/js/453.d912499c.chunk.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.ea919384.css",
-    "static/js/main.6c6159ff.js"
->>>>>>> 915849532ee4c325c87782e46fbf52d9b694b876
   ]
 }
